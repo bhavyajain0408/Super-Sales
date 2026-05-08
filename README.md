@@ -51,4 +51,4 @@ This project helps businesses monitor overall performance, identify profitable c
 This dashboard helps businesses understand sales performance and customer trends more effectively. It enables management teams to identify high-performing regions, profitable product categories, and sales patterns to improve decision-making. The dashboard also supports demand forecasting, inventory planning, and strategic growth by providing real-time visual insights into sales and profit performance.
 
 5. screenshot
-   How the dashboard look like:
+   How the dashboard look like:https://github.com/bhavyajain0408/Super-Sales/commit/5113cb3c630195d991fae6224fe6ebd36e5d7565
